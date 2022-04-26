@@ -1,24 +1,8 @@
-# README
+Bootcamp challange</br>
+Rails Basics
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+If the message is I am going to work, the coach will answer Great!</br>
+If the message has a question mark ? at the end, the coach will answer Silly question, get dressed and go to work!.</br>
+Otherwise the coach will answer I don't care, get dressed and go to work!</br>
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
